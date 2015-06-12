@@ -9,9 +9,13 @@ This package can create a QRCode as Google, Microsoft two authentification facto
 
 - Version: 1.0
 - License: MIT License
-- Author: Dryusdan
+- Author: **[Dryusdan](http://www.dryusdan.fr)**
 - Author of OTP: **[Christian Riesen] (https://github.com/ChristianRiesen/otp)**
 - Author of Base32: **[Christian Riesen] (https://github.com/ChristianRiesen/base32)**
+
+## Warning
+This is an alpha test, it's stable but comments are missing and some small functions.
+Sorry
 
 ## Installation
 
