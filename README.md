@@ -47,7 +47,7 @@ For create member, you need: id of member, email of member.
 ### Check token
 ```php
 <?php
-    $query = Totp::checkToken('dryusdan@hotmail.fr', '303011');
+    $query = Totp::checkToken('some@email.exr', '303011');
     if($query == '1'){
         echo 'access';
     }
