@@ -1,4 +1,4 @@
-# fuelphp-TOTP
+# Fuelphp Two authentification with TOTP
 ### A fuelphp package for create two authentification with TOTP system.
 
 ---
@@ -7,7 +7,7 @@ This package can create a QRCode as Google, Microsoft two authentification facto
 
 ## About
 
-- Version: 1.0
+- Version: 1.0 alpha
 - License: MIT License
 - Author: **[Dryusdan](http://www.dryusdan.fr)**
 - Author of OTP: **[Christian Riesen] (https://github.com/ChristianRiesen/otp)**
